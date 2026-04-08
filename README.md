@@ -6,7 +6,7 @@ This repository contains the Jupyter notebook used for the analysis in the prepa
 ## Dataset
 https://www.kaggle.com/datasets/reubensuju/celeb-df-v2, and http://kaldir.vc.in.tum.de/faceforensics_download_v4.py
 
-## Google Drive
+## Outputs and artifacts
 Contains all outputs, v1 code.
 https://drive.google.com/drive/folders/1voL9bpEErd2RHMbmPze7izosM_H--n88?usp=sharing
 
