@@ -1,7 +1,7 @@
 # Forensics-Ready-Explainable-Framework-for-Deepfake-Video-Authentication
 
 ## Reproducibility
-This repository contains the Jupyter notebook used for the analysis in the preparation of the manuscript. The notebook `mainv1.ipynb` can be opened directly. 
+This repository contains the Jupyter notebook used for the analysis in the preparation of the manuscript. The notebook `mainv1.ipynb` can be opened directly. The .yaml file `conda-env.yaml` contains the conda environment configuration.
 
 ## Dataset
 https://www.kaggle.com/datasets/reubensuju/celeb-df-v2, and http://kaldir.vc.in.tum.de/faceforensics_download_v4.py
